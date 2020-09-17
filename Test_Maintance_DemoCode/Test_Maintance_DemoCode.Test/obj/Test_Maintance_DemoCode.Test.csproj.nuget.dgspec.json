@@ -1,0 +1,239 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.Test\\Test_Maintance_DemoCode.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\How_Session_Minimize_Test_Maintance\\src\\TestingControllersSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\How_Session_Minimize_Test_Maintance\\src\\TestingControllersSample.csproj",
+        "projectName": "TestingControllersSample",
+        "projectPath": "C:\\How_Session_Minimize_Test_Maintance\\src\\TestingControllersSample.csproj",
+        "packagesPath": "C:\\Users\\tioleson\\.nuget\\packages\\",
+        "outputPath": "C:\\How_Session_Minimize_Test_Maintance\\src\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tioleson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\tioleson\\source\\repos\\FoundationUtilities.API": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.hangfire.io/nuget/hangfire-pro": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.Test\\Test_Maintance_DemoCode.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.Test\\Test_Maintance_DemoCode.Test.csproj",
+        "projectName": "Test_Maintance_DemoCode.Test",
+        "projectPath": "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.Test\\Test_Maintance_DemoCode.Test.csproj",
+        "packagesPath": "C:\\Users\\tioleson\\.nuget\\packages\\",
+        "outputPath": "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tioleson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\tioleson\\source\\repos\\FoundationUtilities.API": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.hangfire.io/nuget/hangfire-pro": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\How_Session_Minimize_Test_Maintance\\src\\TestingControllersSample.csproj": {
+                "projectPath": "C:\\How_Session_Minimize_Test_Maintance\\src\\TestingControllersSample.csproj"
+              },
+              "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.csproj": {
+                "projectPath": "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "AutoFixture.Xunit": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "AutoFixture.Xunit2": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.csproj",
+        "projectName": "Test_Maintance_DemoCode",
+        "projectPath": "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode.csproj",
+        "packagesPath": "C:\\Users\\tioleson\\.nuget\\packages\\",
+        "outputPath": "C:\\How_Session_Minimize_Test_Maintance\\Test_Maintance_DemoCode\\Test_Maintance_DemoCode\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tioleson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\tioleson\\source\\repos\\FoundationUtilities.API": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.hangfire.io/nuget/hangfire-pro": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

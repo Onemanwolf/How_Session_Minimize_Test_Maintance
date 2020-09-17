@@ -1,0 +1,16 @@
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Views.dll
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Views.pdb
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.exe
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.deps.json
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.runtimeconfig.json
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.runtimeconfig.dev.json
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\b\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.dll
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.AssemblyInfoInputs.cache
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.AssemblyInfo.cs
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.csproj.CopyComplete
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.dll
+C:\How_Session_Minimize_Test_Maintance\Test_Maintance_DemoCode\.vs\Test_Maintance_DemoCode\v16\lut\0\i\TestingControllersSample.Test\Debug\netcoreapp3.1\TestingControllersSample.Test.genruntimeconfig.cache
