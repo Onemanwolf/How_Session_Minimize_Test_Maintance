@@ -1,0 +1,13 @@
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\b\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\b\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\b\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\b\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.deps.json
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\b\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.runtimeconfig.json
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\b\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.runtimeconfig.dev.json
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\b\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.dll
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.AssemblyInfoInputs.cache
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.AssemblyInfo.cs
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.csproj.CopyComplete
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.dll
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.genruntimeconfig.cache
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode.Test\Debug\netcoreapp3.1\Test_Maintance_DemoCode.Test.csprojAssemblyReference.cache

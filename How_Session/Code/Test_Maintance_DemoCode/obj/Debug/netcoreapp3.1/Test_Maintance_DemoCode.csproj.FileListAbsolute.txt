@@ -14,3 +14,4 @@ C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Test_Maintance_DemoCode\
 C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Test_Maintance_DemoCode\obj\Debug\netcoreapp3.1\Test_Maintance_DemoCode.csproj.CoreCompileInputs.cache
 C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Test_Maintance_DemoCode\obj\Debug\netcoreapp3.1\Test_Maintance_DemoCode.dll
 C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Test_Maintance_DemoCode\obj\Debug\netcoreapp3.1\Test_Maintance_DemoCode.pdb
+C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Test_Maintance_DemoCode\obj\Debug\netcoreapp3.1\Test_Maintance_DemoCode.csprojAssemblyReference.cache

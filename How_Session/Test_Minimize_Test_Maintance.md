@@ -170,14 +170,27 @@ Lets add the packages to the test project.
            <PackageReference Include="AutoFixture.AutoMoq" Version="4.13.0" />
            <PackageReference Include="AutoFixture.Xunit" Version="4.13.0" />
            <PackageReference Include="AutoFixture.Xunit2" Version="4.13.0" />
-           <PackageReference Include="FluentAssertions" Version="5.10.3" />
-           <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" /       >
+           <PackageReference Include="FluentAssertions" Version="5.10.3"/
+           <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
            <PackageReference Include="Moq" Version="4.14.5" />
            <PackageReference Include="xunit" Version="2.4.0" />
            <PackageReference Include="xunit.runner.visualstudio" Version="2.4. 0" />
            <PackageReference Include="coverlet.collector" Version="1.2.0" />
          </ItemGroup>
 ```
+
+
+
+## Refactoring
+
+Replace Manual created data with Auto.Fixture
+
+```C#
+
+
+```
+
+
 
 Now go to the test project and add a new test class called `CalculatorShould`.
 
