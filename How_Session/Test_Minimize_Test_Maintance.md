@@ -524,7 +524,7 @@ lets lose the two bottom test methods by deleting them and use one test method t
 
 When you run the test now you will see the the below results
 
-```C#
+```console
         Test_Maintance_DemoCode.Test.CalculatorShould.Add
    Source: CalculatorShould.cs line 20
 
@@ -741,4 +741,4 @@ So Far we have:
 
 ## Home Work
 
-Now lets take a look at how you refactored and created your test in your code base and ask some questions. 
+Now lets take a look at how you refactored and created your test in your code base and ask some questions.
