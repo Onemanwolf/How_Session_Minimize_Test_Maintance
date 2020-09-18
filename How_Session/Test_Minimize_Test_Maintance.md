@@ -544,7 +544,7 @@ Results
 
 ```
 
-# AutoFixture.AutoMoq;
+# AutoFixture.AutoMoq
 
 ```C#
         using AutoFixture.AutoMoq;
