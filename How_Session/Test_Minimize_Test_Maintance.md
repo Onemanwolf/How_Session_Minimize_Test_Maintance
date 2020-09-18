@@ -53,9 +53,9 @@ Unit Testing best practices:
 
 Lets take a look at an example and feel free to try it out
 
-Go to the T
+Go to the `Test_Maintance_DemoCode` project;
 
-First we create a interface the `IsSatisfied`
+First we create a interface of type T the `IsSatisfied` method with supporting DateTime interface.
 
 ```C#
 using System;
@@ -82,6 +82,7 @@ namespace Test_Maintance_DemoCode
 }
 
 ```
+Now we implement the `ISpecification<Invoice>` for a business rule for delinquent invoices with a class called `DelinquentInvoiceSpecification`.
 
 ```C#
 using System;
@@ -141,6 +142,10 @@ namespace Test_Maintance_DemoCode
 
 ```
 
+
+Lets add the Customer is in good standing rule spec class called `IsGoodStandingSpecification` which `DelinquentInvoiceSpecification` depends on.
+
+
 ```C#
           public class IsGoodStandingSpecification<T> : ISpecification<Customer>
           {
@@ -179,6 +184,8 @@ namespace Test_Maintance_DemoCode
     }
 
 ```
+
+Now add our customer class and Invoice class.
 
 ```C#
         namespace Test_Maintance_DemoCode
@@ -220,6 +227,7 @@ namespace Test_Maintance_DemoCode
 
     }
 }
+```
 
 Lets go to the Test Project and Create a Test Class called `DelinquentInvoiceSpecificationShould`
 
@@ -297,26 +305,15 @@ Lets go to the Test Project and Create a Test Class called `DelinquentInvoiceSpe
 
 AutoFixture.AutoMoq
 
-Lets add the packages to the test project.
+All the packages should be added to the test project.
 
-```xml
-        <ItemGroup>
-           <PackageReference Include="AutoFixture" Version="4.13.0" />
-           <PackageReference Include="AutoFixture.AutoMoq" Version="4.13.0" />
-           <PackageReference Include="AutoFixture.Xunit" Version="4.13.0" />
-           <PackageReference Include="AutoFixture.Xunit2" Version="4.13.0" />
-           <PackageReference Include="FluentAssertions" Version="5.10.3"/
-           <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
-           <PackageReference Include="Moq" Version="4.14.5" />
-           <PackageReference Include="xunit" Version="2.4.0" />
-           <PackageReference Include="xunit.runner.visualstudio" Version="2.4. 0" />
-           <PackageReference Include="coverlet.collector" Version="1.2.0" />
-         </ItemGroup>
-```
+
 
 ## Refactoring
 
 Replace Manual created data with Auto.Fixture
+
+Add the below test methods to the `EmailMessageBufferShould`
 
 ```C#
 
@@ -553,9 +550,11 @@ Results
         using AutoFixture.AutoMoq;
 ```
 
-`EmailMessageSendBufferShould` requires a `IEmailGateway` we can use a `Mock<IEmailGateway>()` to create the dependency as shown below
+`EmailMessageSendBuffer` requires a `IEmailGateway` we can use a `Mock<IEmailGateway>()` to create the dependency as shown below
 
-We use Moq to mock so lets give that a try add hte below test method and make sure you have all the using added.
+We use Moq to mock so lets give that a try add the below test method and make sure you have all the using added.
+
+add the test below and let take a look at how we can improve this test.
 
 ```C#
 using AutoFixture;
@@ -736,10 +735,10 @@ So Far we have:
 - Parameterized our test to test case with one test minimizing maintance
   - [AutoData]
   - [InlineAutoData]
-    Auto Mocked with AutoFixture and Moq
+- Auto Mocked with AutoFixture and Moq
 - Combined Auto Mocking and Auto Data
-  - AutoMoqDataAttribute
+- AutoMoqDataAttribute
 
 ## Home Work
 
-Now lets take a look at how you refactored and created your test in your code base
+Now lets take a look at how you refactored and created your test in your code base and ask some questions. 
