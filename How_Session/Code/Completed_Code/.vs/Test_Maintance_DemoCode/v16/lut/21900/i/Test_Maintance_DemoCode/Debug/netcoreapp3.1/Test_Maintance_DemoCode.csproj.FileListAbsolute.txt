@@ -1,6 +1,5 @@
 C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\b\Test_Maintance_DemoCode\Debug\netcoreapp3.1\Test_Maintance_DemoCode.deps.json
 C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\b\Test_Maintance_DemoCode\Debug\netcoreapp3.1\Test_Maintance_DemoCode.dll
-C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode\Debug\netcoreapp3.1\Test_Maintance_DemoCode.csprojAssemblyReference.cache
 C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode\Debug\netcoreapp3.1\Test_Maintance_DemoCode.AssemblyInfoInputs.cache
 C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode\Debug\netcoreapp3.1\Test_Maintance_DemoCode.AssemblyInfo.cs
 C:\How_Session_Minimize_Test_Maintance\How_Session\Code\Completed_Code\.vs\Test_Maintance_DemoCode\v16\lut\0\i\Test_Maintance_DemoCode\Debug\netcoreapp3.1\Test_Maintance_DemoCode.csproj.CopyComplete
