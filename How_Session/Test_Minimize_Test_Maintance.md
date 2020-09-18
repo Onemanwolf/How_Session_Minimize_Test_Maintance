@@ -82,6 +82,7 @@ namespace Test_Maintance_DemoCode
 }
 
 ```
+
 Now we implement the `ISpecification<Invoice>` for a business rule for delinquent invoices with a class called `DelinquentInvoiceSpecification`.
 
 ```C#
@@ -142,9 +143,7 @@ namespace Test_Maintance_DemoCode
 
 ```
 
-
 Lets add the Customer is in good standing rule spec class called `IsGoodStandingSpecification` which `DelinquentInvoiceSpecification` depends on.
-
 
 ```C#
           public class IsGoodStandingSpecification<T> : ISpecification<Customer>
@@ -299,15 +298,12 @@ Lets go to the Test Project and Create a Test Class called `DelinquentInvoiceSpe
 
     }
 ```
-```
 
 ## AutoMoq
 
 AutoFixture.AutoMoq
 
 All the packages should be added to the test project.
-
-
 
 ## Refactoring
 
